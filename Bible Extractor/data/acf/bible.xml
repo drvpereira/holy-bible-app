@@ -1,0 +1,72 @@
+<bible translation="Almeida Corrigida e Revisada Fiel" language="Português do Brasil">
+  <ot>
+	  <book name="Genesis" acr="gn" nc="50"/>
+	  <book name="Exodus" acr="ex" nc="40"/>
+	  <book name="Leviticus" acr="lv" nc="27"/>
+	  <book name="Numbers" acr="nm" nc="36"/>
+	  <book name="Deuteronomy" acr="dt" nc="34"/>
+	  <book name="Joshua" acr="js" nc="24"/>
+	  <book name="Judges" acr="jz" nc="21"/>
+	  <book name="Ruth" acr="rt" nc="4"/>
+	  <book name="1 Samuel" acr="1sm" nc="31"/>
+	  <book name="2 Samuel" acr="2sm" nc="24"/>
+	  <book name="1 Kings" acr="1rs" nc="22"/>
+	  <book name="2 Kings" acr="2rs" nc="25"/>
+	  <book name="1 Chronicles" acr="1cr" nc="29"/>
+	  <book name="2 Chronicles" acr="2cr" nc="36"/>
+	  <book name="Ezra" acr="ed" nc="10"/>
+	  <book name="Nehemiah" acr="ne" nc="13"/>
+	  <book name="Esther" acr="et" nc="10"/>
+	  <book name="Job" acr="jó" nc="42"/>
+	  <book name="Psalms" acr="sl" nc="150"/>
+	  <book name="Proverbs" acr="pv" nc="31"/>
+	  <book name="Ecclesiastes" acr="ec" nc="12"/>
+	  <book name="Song of Songs" acr="ct" nc="8"/>
+	  <book name="Isaiah" acr="is" nc="66"/>
+	  <book name="Jeremiah" acr="jr" nc="52"/>
+	  <book name="Lamentations" acr="lm" nc="5"/>
+	  <book name="Ezekiel" acr="ez" nc="48"/>
+	  <book name="Daniel" acr="dn" nc="12"/>
+	  <book name="Hosea" acr="os" nc="14"/>
+	  <book name="Joel" acr="jl" nc="3"/>
+	  <book name="Amos" acr="am" nc="9"/>
+	  <book name="Obadiah" acr="ob" nc="1"/>
+	  <book name="Jonah" acr="jn" nc="4"/>
+	  <book name="Micah" acr="mq" nc="7"/>
+	  <book name="Nahum" acr="na" nc="3"/>
+	  <book name="Habakkuk" acr="hc" nc="3"/>
+	  <book name="Zephaniah" acr="sf" nc="3"/>
+	  <book name="Haggai" acr="ag" nc="2"/>
+	  <book name="Zechariah" acr="zc" nc="14"/>
+	  <book name="Malachi" acr="ml" nc="4"/>
+  </ot>
+  <nt>
+	  <book name="Matthew" acr="mt" nc="28"/>
+	  <book name="Mark" acr="mc" nc="16"/>
+	  <book name="Luke" acr="lc" nc="24"/>
+	  <book name="John" acr="jo" nc="21"/>
+	  <book name="Acts" acr="atos" nc="28"/>
+	  <book name="Romans" acr="rm" nc="16"/>
+	  <book name="1 Corinthians" acr="1co" nc="16"/>
+	  <book name="2 Corinthians" acr="2co" nc="13"/>
+	  <book name="Galatians" acr="gl" nc="6"/>
+	  <book name="Ephesians" acr="ef" nc="6"/>
+	  <book name="Philippians" acr="fp" nc="4"/>
+	  <book name="Colossians" acr="cl" nc="4"/>
+	  <book name="1 Thessalonians" acr="1ts" nc="5"/>
+	  <book name="2 Thessalonians" acr="2ts" nc="3"/>
+	  <book name="1 Timothy" acr="1tm" nc="6"/>
+	  <book name="2 Thimoty" acr="2tm" nc="4"/>
+	  <book name="Titus" acr="tt" nc="3"/>
+	  <book name="Philemon" acr="fm" nc="1"/>
+	  <book name="Hebrews" acr="hb" nc="13"/>
+	  <book name="James" acr="tg" nc="5"/>
+	  <book name="1 Peter" acr="1pe" nc="5"/>
+	  <book name="2 Peter" acr="2pe" nc="3"/>
+	  <book name="1 John" acr="1jo" nc="5"/>
+	  <book name="2 John" acr="2jo" nc="1"/>
+	  <book name="3 John" acr="3jo" nc="1"/>
+	  <book name="Jude" acr="jd" nc="1"/>
+	  <book name="Revelations" acr="ap" nc="22"/>
+  </nt>
+</bible>
